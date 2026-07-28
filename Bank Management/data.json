@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mohit",
+        "age": 23,
+        "email": "rohan@gmail.com",
+        "pin": 3546,
+        "accountNo.": "3@F5J0W",
+        "balance": 3500
+    },
+    {
+        "name": "Alok Yadav",
+        "age": 25,
+        "email": "alok@gmail.com",
+        "pin": 1234,
+        "accountNo.": "a22^E5x",
+        "balance": 0
+    },
+    {
+        "name": "Yogendra",
+        "age": 20,
+        "email": "yogendra@gmail.com",
+        "pin": 4455,
+        "accountNo.": "N51^QX0",
+        "balance": 5000
+    }
+]
